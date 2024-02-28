@@ -49,8 +49,6 @@ Description: The summary description
 
 3.3 For correlation: Heatmaps, Pairplots
 
-4. Missing Value & Outlier check (Treatment optional)
+4. Insights
 
-5. Insights
-
-6. Recommendations - Actionable items for business
+5. Recommendations - Actionable items for business
